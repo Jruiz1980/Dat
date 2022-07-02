@@ -1,4 +1,4 @@
-# Data Scructure Fundamentals
+# Data Sctructure Fundamentals
 
 Welcome to the Python Data Structure Fundamentals. These are the basic topics to better understand the data structure:
 
@@ -9,5 +9,7 @@ Welcome to the Python Data Structure Fundamentals. These are the basic topics to
 
 ## Contact
 For questions or comments, please send them to:
+
 Johnathan Ruiz, BYU-Idaho
+
 jiruiz@byui.edu
